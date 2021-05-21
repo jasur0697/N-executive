@@ -1,0 +1,84 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: "Arial", sans-serif;
+  line-height: 1.5;
+}
+
+.container {
+  max-width: 1100px;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.canvas {
+  height: 560px;
+  border: 5px solid #000;
+  /* background-image: url("http://i3.ytimg.com/vi/wUFwunMKa4E/maxresdefault.jpg"); */
+  background-image: url("../img/mayor-grom-poster.jpg");
+
+  /* background-size: eni; */
+  /* background-size: eni bo'yi; */
+  /* background-size: auto bo'y; */
+  /* background-size: contain; */
+  background-size: cover;
+  /* background-size: 300px; */
+
+  /* bgr: repeat, repeat-x, repeat-y, no-repeat, space, round */
+  background-repeat: no-repeat;
+
+  /* background-position: left top; */
+  /* background-position: center center; */
+  /* background-position: right top; */
+  /* background-position: left bottom; */
+  /* background-position: right bottom; */
+  /* background-position: 100px 100%; */
+  /* background-position: right 50px bottom 50px; */
+  /* transition: background-position 0.4s ease; */
+}
+
+.canvas:hover {
+  /* background-position: center center; */
+}
+
+.rasm {
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: scroll;
+  background-attachment: fixed;
+}
+
+.rasm-1 {
+  background-image: url("https://picsum.photos/id/870/1280/720");
+}
+
+.rasm-2 {
+  background-image: url("https://picsum.photos/id/878/1280/720");
+}
+
+.rasm-3 {
+  background-image: url("https://picsum.photos/id/80/1280/720");
+}
+
+.rasm-4 {
+  background-image: url("https://picsum.photos/id/70/1280/720");
+}
+
+.rasm-5 {
+  background-image: url("https://picsum.photos/id/7/1280/720");
+}
+
+.matn {
+  padding: 50px;
+}

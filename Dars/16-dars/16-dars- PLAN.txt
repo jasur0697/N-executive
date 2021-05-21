@@ -1,0 +1,22 @@
+16-dars - 18.05.2021
+Reja:
+1. select, checkbox, radio, fieldset, legend, dataset
+2. Prefiks va minifikatsiya
+3. Fonga bir nechta rasm joylash
+
+checkbox type
+ 
+
+
+
+
+Accessible Rich Internet Applications  aria 
+
+aira-hidden="true" oqimay otib ketadi
+
+checked disabld inputga beriladi
+
+checkboxlarni guruhlash fieldset bilan qilinadi checkbox flex
+agar flex berilganda toliq qator bolsilad
+
+input checkbox required qilib bolmidi

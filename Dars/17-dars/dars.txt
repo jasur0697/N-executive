@@ -1,0 +1,18 @@
+17-dars - 19.05.2021
+Reja:
+1. Fonga bir nechta rasm joylash
+2. CSSda specificity
+3. SCRUM
+4. Flex mashqlar
+
+Sinf ishi:
+- Pricing component maketi
+ (https://www.figma.com/file/QmCcCsQrgm6l2XT8xphaK1/pricing-component-with-toggle?node-id=0%3A101)- Countries maketi
+
+ (https://www.figma.com/file/TjmtPnxg0aihyACNM49Uk3/rest-countries-api-with-color-theme-switcher)Uy ishi:
+- CSS transform xususiyatini o?rganib kelish
+- FrontLoopsdan mashqlar
+
+Figma (https://www.figma.com/file/QmCcCsQrgm6l2XT8xphaK1/pricing-component-with-toggle?node-id=0%3A101)
+pricing-component-with-toggle
+Created with Figma
